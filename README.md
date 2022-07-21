@@ -59,5 +59,8 @@ Review details were separated into a database table called reviews.
 It contains review_id, date, comments and it has listing_id, reviewer_id as foreign keys.
 
 Solution Architecture
+![image](https://user-images.githubusercontent.com/88123921/180133420-34130aca-0c33-4bf6-9505-9793fcb8cf97.png)
+
+
 
 
